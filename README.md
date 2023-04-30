@@ -74,7 +74,12 @@ __Описание проекта:__
   __Описание проекта:__
 Анализ результатов А/А/В-тестирования, анализ воронки продаж мобильного приложения.
 
-11. [Анализ рынка заведений общественного питания Москвы](https://github.com/Anastasiamay/Study_projects/blob/main/catering_establishment.ipynb), [Презентация результатов](https://github.com/Anastasiamay/Study_projects/blob/main/catering_establishment.pdf)
+11. [Анализ рынка заведений общественного питания Москвы](https://github.com/Anastasiamay/Study_projects/blob/main/catering_establishment.ipynb), [Презентация результатов](https://drive.google.com/file/d/1W_GkQFu68MRcqmmLf7aYjKWEDZ3EoW1W/view?usp=share_link)
 
   __Описание проекта:__
 Исследование рынка общественного питания Москвы, подготовка рекомендаций для открытия нового заведения.
+
+12. [Анализ взаимодействия пользователей с картчками, дашборд Tableau](https://public.tableau.com/app/profile/anastasia.mayorova/viz/DashbordYandex_Dzen_16800007870410/Dashboard1), [Презентация](https://drive.google.com/file/d/1wzW5RksYits9gV4LrvtdLpux9ExlN95r/view?usp=sharing)
+
+  __Описание проекта:__
+Составление дашборда для анализа пользовательского взаимодействия с карточками статей.
