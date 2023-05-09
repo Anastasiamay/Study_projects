@@ -83,3 +83,25 @@ __Описание проекта:__
 
   __Описание проекта:__
 Составление дашборда для анализа пользовательского взаимодействия с карточками статей.
+
+13. [Анализ оттока клиентов банка](https://github.com/Anastasiamay/Study_projects/blob/main/outflow_of_bank_customers.ipynb)
+
+[Презентация](https://drive.google.com/file/d/1QxuBAenH59pY47bFXYFwFNqh8BusJTHU/view?usp=share_link)
+
+[Дашборд Tableau](https://public.tableau.com/app/profile/anastasia.mayorova/viz/Bank_16819791262390/Dashboard1)
+
+[A/B-тестирование](https://github.com/Anastasiamay/Study_projects/blob/main/a_b_test.ipynb)
+
+[Анализ базы данных сервиса для чтения книг по подписке](https://github.com/Anastasiamay/Study_projects/blob/main/SQL.ipynb)
+
+  __Описание проекта:__
+Проект состоит из нескольких частей:
+
+- Анализ оттока клиентов банка - необходимо провести сегментацию отточных клиентов банка для формирвания рекомендаций по удержанию клиентов, склонных к оттоку; подгтовить презентацию и дашборд;
+- A/B-тестирование - необходимо оценить корректность проведения теста, проанализировать результат проведенного теста;
+- Анализ базы данных сервиса для чтения книг по подписке - написать несколько запросов к базе данных.
+
+База данных
+
+![База данных](https://concrete-web-bad.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F069818d1-0e5c-4d87-a461-0de584ab9c33%2FUntitled_(33).png?id=bd53c8db-b4fd-49eb-8cc9-572ebb3c9163&table=block&spaceId=9e4bd47b-c6e6-4ca3-bcee-279794b47315&width=2000&userId=&cache=v2)
+
