@@ -6,17 +6,12 @@
   __Описание проекта:__
 Поиск особенностей и зависимостей, существующих на рынке недвижимости. Предоставлен архив объявлений о продаже жилой недвижимости в Санкт-Петербурге и Ленинградской области за несколько лет.
 
-2. [Выявление перспективного тарифа](https://github.com/Anastasiamay/Study_projects/blob/main/Tariffs.ipynb)
- 
-  __Описание проекта:__
-Анализ и определение более выгодного  тарифного плана для корректировки рекламного бюджета.
-
-3. [Исследование рынка видеоигр](https://github.com/Anastasiamay/Study_projects/blob/main/games.ipynb)
+2. [Исследование рынка видеоигр](https://github.com/Anastasiamay/Study_projects/blob/main/games.ipynb)
 
   __Описание проекта:__
 Выявление закономерностей, позволяющих определить успешный продукт и спланировать рекламные кампании на будущий год.
 
-4. [Базовый SQL](https://github.com/Anastasiamay/Study_projects/blob/main/base_sql.sql)
+3. [Базовый SQL](https://github.com/Anastasiamay/Study_projects/blob/main/base_sql.sql)
 
 __Описание проекта:__
 Необходимо выполнить ряд запросов к базе данных, которая хранит информацию о венчурных фондах и инвестициях в компании-стартапы.
@@ -33,12 +28,12 @@ __Описание проекта:__
 * investment - содержит информацию об инвестициях венчурных фондов в компании-стартапы;
 * people - содержит информацию о сотрудниках компаний-стартапов.
 
-5. [Анализ бизнес-показателей приложения](https://github.com/Anastasiamay/Study_projects/blob/main/business_performance_analysis.ipynb)
+4. [Анализ бизнес-показателей приложения](https://github.com/Anastasiamay/Study_projects/blob/main/business_performance_analysis.ipynb)
 
   __Описание проекта:__
 Исследование окупаемости рекламы, анализ поведения пользователей, определение причин убытков компании.
 
-6. [Продвинутый SQL](https://github.com/Anastasiamay/Study_projects/blob/main/advanced_sql.sql)
+5. [Продвинутый SQL](https://github.com/Anastasiamay/Study_projects/blob/main/advanced_sql.sql)
 
 __Описание проекта:__
 Необходимо выполнить ряд запросов к базе данных StackOverflow — сервиса вопросов и ответов о программировании.
@@ -54,27 +49,27 @@ __Описание проекта:__
 * vote_types - содержит информацию о типах голосов;
 * votes - содержит информацию о голосах за посты.
 
-7. [Принятие решений в бизнесе](https://github.com/Anastasiamay/Study_projects/blob/main/a_b_testing.ipynb)
+6. [Принятие решений в бизнесе](https://github.com/Anastasiamay/Study_projects/blob/main/a_b_testing.ipynb)
 
   __Описание проекта:__
 Приоритизация гипотез для проведения A/B-теста, анализ результатов A/B-теста.
 
-8. [Исследование поведения пользователей мобильного приложения](https://github.com/Anastasiamay/Study_projects/blob/main/mobile_app_users_behavior.ipynb)
+7. [Исследование поведения пользователей мобильного приложения](https://github.com/Anastasiamay/Study_projects/blob/main/mobile_app_users_behavior.ipynb)
 
   __Описание проекта:__
 Анализ результатов А/А/В-тестирования, анализ воронки продаж мобильного приложения.
 
-9. [Анализ рынка заведений общественного питания Москвы](https://github.com/Anastasiamay/Study_projects/blob/main/catering_establishment.ipynb), [Презентация результатов](https://drive.google.com/file/d/1W_GkQFu68MRcqmmLf7aYjKWEDZ3EoW1W/view?usp=share_link)
+8. [Анализ рынка заведений общественного питания Москвы](https://github.com/Anastasiamay/Study_projects/blob/main/catering_establishment.ipynb), [Презентация результатов](https://drive.google.com/file/d/1W_GkQFu68MRcqmmLf7aYjKWEDZ3EoW1W/view?usp=share_link)
 
   __Описание проекта:__
 Исследование рынка общественного питания Москвы, подготовка рекомендаций для открытия нового заведения.
 
-10. [Анализ взаимодействия пользователей с картчками, дашборд Tableau](https://public.tableau.com/app/profile/anastasia.mayorova/viz/DashbordYandex_Dzen_16800007870410/Dashboard1), [Презентация](https://drive.google.com/file/d/1wzW5RksYits9gV4LrvtdLpux9ExlN95r/view?usp=sharing)
+9. [Анализ взаимодействия пользователей с картчками, дашборд Tableau](https://public.tableau.com/app/profile/anastasia.mayorova/viz/DashbordYandex_Dzen_16800007870410/Dashboard1), [Презентация](https://drive.google.com/file/d/1wzW5RksYits9gV4LrvtdLpux9ExlN95r/view?usp=sharing)
 
   __Описание проекта:__
 Составление дашборда для анализа пользовательского взаимодействия с карточками статей.
 
-11. [Анализ оттока клиентов банка](https://github.com/Anastasiamay/Study_projects/blob/main/outflow_of_bank_customers.ipynb)
+10. [Анализ оттока клиентов банка](https://github.com/Anastasiamay/Study_projects/blob/main/outflow_of_bank_customers.ipynb)
 
 [Презентация](https://drive.google.com/file/d/1QxuBAenH59pY47bFXYFwFNqh8BusJTHU/view?usp=share_link)
 
